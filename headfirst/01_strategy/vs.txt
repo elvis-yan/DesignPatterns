@@ -1,0 +1,4 @@
+java > go
+
+java > python
+    python version is a litter easier but lack of constraint.
