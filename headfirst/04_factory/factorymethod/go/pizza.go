@@ -5,11 +5,10 @@ import (
 )
 
 const (
+	// Pizza Types
 	Cheese PizzaType = "Cheese Pizza"
-	// others
-)
 
-const (
+	// Store Style
 	NY      Style = "NY"
 	Chicago Style = "Chicago"
 )
